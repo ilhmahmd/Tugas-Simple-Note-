@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp.router(
       debugShowCheckedModeBanner: false,
-      title: 'Simple Dimple',
+      title: 'Note!',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         useMaterial3: true,
